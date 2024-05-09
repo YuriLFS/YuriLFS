@@ -9,5 +9,5 @@ Hi there 👋
 
 <div>
   <img align="center" width=300 src="https://github-readme-stats.vercel.app/api?username=YuriLFS&show_icons=true&theme=midnight-purple&hide_rank=true" /> 
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLFS&theme=midnight-purple&layout=compact" />
+  <img align="center" width=405 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLFS&theme=midnight-purple&layout=compact" />
 </div>
