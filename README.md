@@ -7,7 +7,7 @@ Hi there 👋
   <li> 🕹️ Learning Game Development in spare time </li>
 </ul>
 
-<div style="padding-right: 20px">
+<div style="padding-right: 100px">
   <img align="center" width=300 src="https://github-readme-stats.vercel.app/api?username=YuriLFS&show_icons=true&theme=midnight-purple&hide_rank=true" /> 
   <img align="center" width=410 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLFS&theme=midnight-purple&layout=compact" />
 </div>
