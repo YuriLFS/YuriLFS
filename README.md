@@ -9,6 +9,5 @@ Hi there 👋
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=YuriLFS&show_icons=true&theme=midnight-purple&hide_rank=true" /> 
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLFS&theme=midnight-purple&layout=compact" />
 </div>
