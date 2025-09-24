@@ -6,7 +6,7 @@
   <li> 👻 Graduated in Computer Science </li>
 </ul>
 
-##🚀 Technologies I use:</p>
+## 🚀 Technologies I use:</p>
 
 <div>
   
