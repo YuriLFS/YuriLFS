@@ -6,9 +6,9 @@
   <li> 👻 Graduated in Computer Science </li>
 </ul>
 
-## 🚀 Technologies I use:</p>
+## 🚀 Technologies I use:
 
-<div> 
+<div style="display: flex; justify-content: center; gap: 20px;">
   <!-- Badges -->
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" style="margin: 10px;" />
