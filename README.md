@@ -1,4 +1,4 @@
-Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+Hello+Olá+Oi;I'm+Yuri;A+Jr+Front-End+Dev)](https://git.io/typing-svg)
 
 <ul>
   <li> 🎴 BP + ENG </li>
