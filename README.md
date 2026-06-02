@@ -21,8 +21,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" style="margin: 10px;" />          
   
 </div>
-
-<div>
-  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=YuriLFS&show_icons=true&theme=midnight-purple&hide_rank=true" /> 
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLFS&theme=midnight-purple&layout=compact" />
-</div>
